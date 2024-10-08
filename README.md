@@ -24,7 +24,15 @@ In the initial phase of data cleaning, we perform the following action;
 3. Data Cleaning and formatting
    
 ### Explanatory Data Analysis
-EDA involved the data to answer some quwstions about the data such as;
+EDA involves the data to answer some quwstions about the data such as;
 - What is the overall sales trend
 - Which products are the top sellers
 - What are the products on peak sales?
+
+### Data Analysis
+This is where we include some basic lines of code or queries or even some of the DAX expressions used during your analysis;
+
+```SQL
+SELECT * FROM TABLE1
+WHERE CONDITION = TRUE
+```
