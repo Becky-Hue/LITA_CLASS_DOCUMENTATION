@@ -1,2 +1,3 @@
 # LITA_CLASS_DOCUMENTATION
-Learning with Incubator Hub
+
+### Project Title: E-commerce Sales Analysis
